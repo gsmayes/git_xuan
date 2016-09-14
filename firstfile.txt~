@@ -1,8 +1,12 @@
 content coming
 is it going wrong (asdf)
 looks like if master hasn't changed, it's alright.
+
 now test again ahuh after
 try the stash
+<<<<<<< HEAD
 try the stash again
+=======
+
 oops forget the conflict making...
-now
+>>>>>>> b8a95cc8787f40778d4eb003d8f5b35a7c5aa3af
