@@ -6,5 +6,11 @@ try the stash
 try the stash again
 oops forget the conflict making...
 now
+
 conflict remake
 conflict remake
+
+
+Oops, must recreate the conflict scenario since I deleted the conflict history by accident.
+
+Finally recreated.......
