@@ -4,3 +4,5 @@ looks like if master hasn't changed, it's alright.
 
 now test again ahuh after
 try the stash
+
+oops forget the conflict making...
