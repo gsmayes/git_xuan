@@ -7,3 +7,4 @@ try the stash again
 oops forget the conflict making...
 now
 conflict remake
+conflict remake
