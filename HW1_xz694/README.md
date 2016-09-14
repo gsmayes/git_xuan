@@ -10,4 +10,4 @@ Single file within: firstfile.txt <There should be records for at least two reso
 
 ->Work on a fork
 
-I attempt to team up with fellow student whose netID is g
+I attempt to team up with fellow student whose netID is gsm317. I made a change in my copy and sent a pull request.
