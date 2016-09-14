@@ -6,3 +6,4 @@ try the stash
 try the stash again
 oops forget the conflict making...
 now
+conflict remake
